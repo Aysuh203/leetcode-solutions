@@ -25,8 +25,21 @@ Solutions are added regularly as I solve problems on LeetCode.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aysuh203/leetcode-solutions/tree/master/0001-two-sum) |
+| [0853-car-fleet](https://github.com/Aysuh203/leetcode-solutions/tree/master/0853-car-fleet) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aysuh203/leetcode-solutions/tree/master/0001-two-sum) |
+## Stack
+|  |
+| ------- |
+| [0853-car-fleet](https://github.com/Aysuh203/leetcode-solutions/tree/master/0853-car-fleet) |
+## Sorting
+|  |
+| ------- |
+| [0853-car-fleet](https://github.com/Aysuh203/leetcode-solutions/tree/master/0853-car-fleet) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0853-car-fleet](https://github.com/Aysuh203/leetcode-solutions/tree/master/0853-car-fleet) |
 <!---LeetCode Topics End-->
