@@ -25,6 +25,7 @@ Solutions are added regularly as I solve problems on LeetCode.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aysuh203/leetcode-solutions/tree/master/0001-two-sum) |
+| [0704-binary-search](https://github.com/Aysuh203/leetcode-solutions/tree/master/0704-binary-search) |
 | [0853-car-fleet](https://github.com/Aysuh203/leetcode-solutions/tree/master/0853-car-fleet) |
 ## Hash Table
 |  |
@@ -42,4 +43,8 @@ Solutions are added regularly as I solve problems on LeetCode.
 |  |
 | ------- |
 | [0853-car-fleet](https://github.com/Aysuh203/leetcode-solutions/tree/master/0853-car-fleet) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Aysuh203/leetcode-solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
